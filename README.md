@@ -27,14 +27,14 @@
 
 ### <p align =center>SNS</p>
 <div align =center>
- <a href="https://www.instagram.com/hzziins/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
- <a href="https://zinny-22.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=white"/></a> 
+ <a href="https://www.instagram.com/hzziins/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/ width = 110px></a> 
+ <a href="https://zinny-22.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=white"/width = 70px></a> 
 </div>
 
-<br/><br/>
+<!-- <br/><br/>
 <div align =center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzinny22&count_bg=%23D9CDE7&title_bg=%239E60BC&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</div>
+</div> -->
  
 
 
