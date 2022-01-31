@@ -1,5 +1,5 @@
 <div align =center>
-<img src= "https://mblogthumb-phinf.pstatic.net/MjAxODA1MDZfMTQ3/MDAxNTI1NTUzNjg4NzA3.MMCUmid7CHdrLAzWID6U7OLxsTRroOqtuffmNT41LzAg.WN_p0TbKZZFmAt_3DREM3LM0t6qWHvirVUvkBqostOsg.PNG.jhk3749/image.png?type=w800" width = 300px>
+<img src= "https://mblogthumb-phinf.pstatic.net/MjAxODA1MDZfMTQ3/MDAxNTI1NTUzNjg4NzA3.MMCUmid7CHdrLAzWID6U7OLxsTRroOqtuffmNT41LzAg.WN_p0TbKZZFmAt_3DREM3LM0t6qWHvirVUvkBqostOsg.PNG.jhk3749/image.png?type=w800" height =300px width= 600px>
  </div>
 <br/>
 
@@ -14,7 +14,7 @@
 
  <br/>
  
-### <h1 align =center>🛠SKILLS🛠</h1>
+### <p align =center>🛠SKILLS🛠</p>
 
 <div align =center>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -25,7 +25,7 @@
 </div>
 <br/>
 
-### <h1 align =center>SNS</h1>
+### <p align =center>SNS</p>
 <div align =center>
  <a href="https://www.instagram.com/hzziins/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
  <a href="https://zinny-22.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=white"/></a> 
