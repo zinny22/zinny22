@@ -6,7 +6,7 @@
 
 <div align =center>
  
- ### <h1 align =center>✨HI### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm HYEJIN!✨</p> </h1>
+ ### <h1 align =center> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm HYEJIN!✨ </h1>
  
  <p> 👩🏻‍💻 Front-End Developer </p>
   
