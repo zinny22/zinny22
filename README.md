@@ -9,9 +9,11 @@
  ### <h1 align =center> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm HYEJIN!✨ </h1>
  
  <p> 👩🏻‍💻 Front-End Developer </p>
-  
+ 
+ <p align="center">
  [![Typing SVG](https://typing-text-svg.herokuapp.com?color=%23F7AA42&lines=Front-End+Developer+;%EC%A3%BC%EB%8B%88%EC%96%B4+%ED%94%84%EB%A1%A0%ED%8A%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90!)](https://git.io/typing-svg)
 </div>
+</p>
 
  <br/>
  
