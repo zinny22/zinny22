@@ -10,7 +10,9 @@
  
  <p> 👩🏻‍💻 Front-End Developer </p>
  
- <div align ="center"> <img src="https://typing-text-svg.herokuapp.com?color=%23F7AA42&lines=Front-End+Developer+;%EC%A3%BC%EB%8B%88%EC%96%B4+%ED%94%84%EB%A1%A0%ED%8A%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90!"/> </div>
+ <div align ="center"> 
+  <img src="https://typing-text-svg.herokuapp.com?color=%23F7AA42&center=true&vCenter=true&lines=Front-End+Developer+;%EC%A3%BC%EB%8B%88%EC%96%B4+%ED%94%84%EB%A1%A0%ED%8A%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90!"/> 
+ </div>
  
 </div>
 </p>
