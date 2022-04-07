@@ -36,8 +36,12 @@
 
 ### <p align =center>🧡SNS🧡</p>
 <div align =center>
- <a href="https://www.instagram.com/hzziins/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/ width = 110px></a> 
- <a href="https://zinny-22.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=white"/width = 70px></a> 
+ 
+ <a href="https://www.instagram.com/hzziins/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> 
+ <a href="https://zinny-22.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=blogger&logoColor=white"/></a>
+ <a href ="https://www.notion.so/zinnys-/I-m-HyeJin-598d207b671c4341b8be1f8a434b3b63" target="_blank"><img src ="https://camo.githubusercontent.com/7ab436ab25e4c27dfc2e2d9013daf26d66f023e946e63aaf2391c046acd3a594/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666c6174266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465"/></a>
 </div>
 
 
