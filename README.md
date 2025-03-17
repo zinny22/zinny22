@@ -1,9 +1,13 @@
 <div>
- <h4>안녕하세요. 프론트엔드 개발자 지니입니다🍒 </h4>
- <sub>저는 코드 한 줄도 의미 있게, 새로운 도전은 기쁘게, 밝은 에너지로 팀을 감싸는 사람입니다 🚀</sub>
-  <br/> <br/>
- <h4>Hi, I'm Front-end Developer ziny🍒</h4>
- <sub>I’m someone who writes every line of code with purpose, embraces new challenges with joy, and uplifts the team with positive energy. 🚀</sub>
+<img src="./yes i can.jpg" alt="내 로고" width="200">
+</div>
+
+<div>
+ <h3>안녕하세요. 프론트엔드 개발자 지니입니다 🍒 </h3>
+ <p>저는 코드 한 줄도 의미 있게, 새로운 도전은 기쁘게, 밝은 에너지로 팀을 감싸는 사람입니다 🚀</p>
+  <br/>
+ <h3>Hi, I’m Ziny, a Front-end Developer 🍒</h3>
+ <p>I’m someone who writes every line of code with purpose, embraces new challenges with joy, and uplifts the team with positive energy. 🚀</p>
 </div>
 
 ---
